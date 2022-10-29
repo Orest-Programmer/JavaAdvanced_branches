@@ -9,7 +9,7 @@ import ua.lviv.lgs.dao.BucketDao;
 import ua.lviv.lgs.dao.impl.BucketDaoImpl;
 import ua.lviv.lgs.domain.Bucket;
 import ua.lviv.lgs.service.BucketService;
-
+//it is implementation for bucketService
 public class BucketServiceImpl implements BucketService {
 	private static Logger LOGGER = Logger.getLogger(BucketServiceImpl.class);
 	private static BucketService bucketServiceImpl;

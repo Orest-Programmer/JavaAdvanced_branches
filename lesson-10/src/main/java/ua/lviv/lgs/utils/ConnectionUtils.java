@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 import org.apache.log4j.xml.DOMConfigurator;
-
+// it is connection to database
 public class ConnectionUtils {
 	
 	private static String USER_NAME = "root";

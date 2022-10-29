@@ -21,7 +21,7 @@ import ua.lviv.lgs.service.ProductService;
 import ua.lviv.lgs.service.impl.BucketServiceImpl;
 import ua.lviv.lgs.service.impl.ProductServiceImpl;
 
-
+//it is servlet for bucketsController
 @WebServlet("/buckets")
 public class BucketsController extends HttpServlet {
 	 

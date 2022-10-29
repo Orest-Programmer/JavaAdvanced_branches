@@ -13,7 +13,7 @@ import javax.servlet.annotation.WebFilter;
 
 import ua.lviv.lgs.domain.UserRole;
 import ua.lviv.lgs.shared.FilterService;
-
+//it is filter for createProduct class
 @WebFilter("/createProduct.jsp")
 public class CreateProductFilter implements Filter {
 private FilterService filterService = FilterService.getFilterService();

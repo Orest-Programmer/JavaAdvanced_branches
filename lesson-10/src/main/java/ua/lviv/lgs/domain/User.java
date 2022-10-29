@@ -1,5 +1,5 @@
 package ua.lviv.lgs.domain;
-
+// it is user class
 public class User {
 	private Integer id;
 	private String email;

@@ -9,7 +9,7 @@ import ua.lviv.lgs.dao.UserDao;
 import ua.lviv.lgs.dao.impl.UserDaoImpl;
 import ua.lviv.lgs.domain.User;
 import ua.lviv.lgs.service.UserService;
-
+//it is implementation for userService
 public class UserServiceImpl implements UserService {
 	private static Logger LOGGER = Logger.getLogger(UserServiceImpl.class);
 	private static UserService userServiceImpl;

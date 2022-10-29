@@ -1,5 +1,5 @@
 package ua.lviv.lgs.servlet;
-
+//it is servlet for login
 import java.io.IOException;
 
 import javax.servlet.ServletException;

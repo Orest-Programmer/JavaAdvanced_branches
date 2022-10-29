@@ -13,7 +13,7 @@ import org.apache.log4j.Logger;
 import ua.lviv.lgs.dao.UserDao;
 import ua.lviv.lgs.domain.User;
 import ua.lviv.lgs.utils.ConnectionUtils;
-
+//implementation for userDao
 public class UserDaoImpl implements UserDao {
 
 	private static String READ_ALL = "select * from user";

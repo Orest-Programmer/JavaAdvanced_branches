@@ -13,7 +13,7 @@ import javax.servlet.http.HttpSession;
 import ua.lviv.lgs.domain.Bucket;
 import ua.lviv.lgs.service.BucketService;
 import ua.lviv.lgs.service.impl.BucketServiceImpl;
-
+//it is servlet for bucketController
 @WebServlet("/bucket")
 public class BucketController extends HttpServlet {
  

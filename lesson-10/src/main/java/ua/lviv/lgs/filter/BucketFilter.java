@@ -13,7 +13,7 @@ import javax.servlet.annotation.WebFilter;
 
 import ua.lviv.lgs.domain.UserRole;
 import ua.lviv.lgs.shared.FilterService;
-
+// it is filter for bucket
 @WebFilter("/bucket.jsp")
 public class BucketFilter implements Filter {
 	

@@ -13,7 +13,7 @@ import javax.servlet.annotation.WebFilter;
 
 import ua.lviv.lgs.domain.UserRole;
 import ua.lviv.lgs.shared.FilterService;
-
+//it is filter for cabinet
 @WebFilter("/cabinet.jsp")
 public class CabinetFilter implements Filter {
 

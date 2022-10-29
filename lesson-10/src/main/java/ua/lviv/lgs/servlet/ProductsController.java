@@ -14,7 +14,7 @@ import com.google.gson.Gson;
 import ua.lviv.lgs.domain.Product;
 import ua.lviv.lgs.service.ProductService;
 import ua.lviv.lgs.service.impl.ProductServiceImpl;
-
+//it is servlet for productsController
 @WebServlet("/products")
 public class ProductsController extends HttpServlet {
 	private ProductService productService = ProductServiceImpl.getProductService();

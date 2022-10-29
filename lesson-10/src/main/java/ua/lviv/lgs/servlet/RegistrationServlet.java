@@ -11,7 +11,7 @@ import ua.lviv.lgs.domain.User;
 import ua.lviv.lgs.domain.UserRole;
 import ua.lviv.lgs.service.UserService;
 import ua.lviv.lgs.service.impl.UserServiceImpl;
-
+//it is servlet for registration
 public class RegistrationServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	private UserService userService = UserServiceImpl.getUserService();

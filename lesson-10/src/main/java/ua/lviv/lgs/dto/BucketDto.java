@@ -1,7 +1,7 @@
 package ua.lviv.lgs.dto;
 
 import java.util.Date;
-
+// it is dto for bucket
 public class BucketDto {
 	public Integer bucketId;
 	public String name;

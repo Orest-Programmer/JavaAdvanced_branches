@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 import ua.lviv.lgs.domain.Product;
 import ua.lviv.lgs.service.ProductService;
 import ua.lviv.lgs.service.impl.ProductServiceImpl;
-
+//it is servlet for productController
 @WebServlet("/product")
 public class ProductController extends HttpServlet {
 

@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 
 import ua.lviv.lgs.domain.UserRole;
-
+//it is filter for service
 public class FilterService {
 	private static FilterService filterService;
 

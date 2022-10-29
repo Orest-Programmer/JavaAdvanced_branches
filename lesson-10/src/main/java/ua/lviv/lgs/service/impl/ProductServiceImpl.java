@@ -12,7 +12,7 @@ import ua.lviv.lgs.dao.ProductDao;
 import ua.lviv.lgs.dao.impl.ProductDaoImpl;
 import ua.lviv.lgs.domain.Product;
 import ua.lviv.lgs.service.ProductService;
-
+//it is implementation for productService
 public class ProductServiceImpl implements ProductService {
 	private static Logger LOGGER = Logger.getLogger(ProductServiceImpl.class);
 	private static ProductService productServiceImpl;

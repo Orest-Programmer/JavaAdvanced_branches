@@ -1,5 +1,5 @@
 package ua.lviv.lgs.domain;
-
+// it is bucket class
 import java.util.Date;
 
 public class Bucket {

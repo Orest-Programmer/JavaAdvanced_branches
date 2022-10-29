@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 import com.google.gson.Gson;
-
+//it is servlet for userRole
 @WebServlet("/user-role")
 public class UserRoleServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
