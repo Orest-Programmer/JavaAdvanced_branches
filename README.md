@@ -1,6 +1,15 @@
 # Task
 Lessons from 11 to 20
 
+Place for homework from 11 to 20
+
+
+
+
+
+
+
+
 1. Створити чистий проект.
 
 2. Ініціалізувати git-репозиторій з чистою branch master, додати в неї файл README.md, в який помістити опис до цього завдання.
